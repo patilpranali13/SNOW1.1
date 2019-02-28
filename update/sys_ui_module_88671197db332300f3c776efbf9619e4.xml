@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NeedIt">38969557db332300f3c776efbf96198e</application>
+        <filter/>
+        <name>NeedITs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_294644_needit.needit_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 13:13:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>88671197db332300f3c776efbf9619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedITs</sys_name>
+        <sys_package display_value="NeedIT" source="x_294644_needit">ed271593db332300f3c776efbf96191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIT">ed271593db332300f3c776efbf96191d</sys_scope>
+        <sys_update_name>sys_ui_module_88671197db332300f3c776efbf9619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 13:13:37</sys_updated_on>
+        <table>x_294644_needit_needit</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
